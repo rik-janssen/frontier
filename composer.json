@@ -15,7 +15,8 @@
   "require": {
     "rik-janssen/config": "0.*",
     "rik-janssen/sequel": "0.*",
-    "cart-rd/logger": "0.*"
+    "cart-rd/logger": "0.*",
+    "scssphp/scssphp": "^1.11.0"
   }
   
 }
