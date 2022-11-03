@@ -1,0 +1,21 @@
+{
+  "name": "rik-janssen/frontier",
+  "type": "project",
+  "description": "Vesper PHP, build fast.",
+  "keywords": ["template", "views", "builder"],
+  "license": "MIT",
+  
+   "authors": [
+      {
+          "name": "Rik Janssen",
+          "email": "rik@vesperphp.com"
+      }
+  ],
+  
+  "require": {
+    "rik-janssen/config": "0.*",
+    "rik-janssen/sequel": "0.*",
+    "cart-rd/logger": "0.*"
+  }
+  
+}
